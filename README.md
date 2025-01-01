@@ -33,12 +33,15 @@ This is a simple **Tic Tac Toe game** built using HTML, CSS, and JavaScript. It'
 ├── README.md        # Project documentation (this file)
 
 
-
+---
 
 ##Technologies Used
 HTML: For the structure of the game.
 CSS: For styling and layout.
 JavaScript: For game logic and interactivity.
+
+---
+
 ##Future Improvements
 1. Add an AI player for single-player mode.
 2. Introduce a scoreboard to track wins, losses, and ties.
